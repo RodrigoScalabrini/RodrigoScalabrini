@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about cloud computing
 - 💞️ I’m looking to collaborate in solving problems
 - 📫 How to reach me rodrigoscalabrini@outlook.com
-- 😄 Pronouns: He, his, its.
+- 😄 Pronouns: He, his.
 - ⚡ Fun fact: I like dogs, cats and nature. I love to enjoy beautiful landscapes!
 
 <!---
